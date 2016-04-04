@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
     //Color c = Color.BLUE;
-        
+
 	// write your code here
         ArrayList<Shape> shapes = new ArrayList<>();
 
